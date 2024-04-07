@@ -1,6 +1,6 @@
 # My Radar :airplane:
 ## Description :world_map:
-"My Radar" is an air traffic simulator in C. It visualizes aircrafts and control towers in a 2D space, simulating real-time air traffic with potential collision scenarios.
+"My Radar" is an air traffic simulator. I realized it in C with CSFML during my first year at Epitech Technology. It visualizes aircrafts and control towers in a 2D space, simulating real-time air traffic with potential collision scenarios.
 
 ## Control Keys :keyboard:
 [L]: Switch hitboxes and areas visibility
